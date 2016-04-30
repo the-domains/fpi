@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[FPI]]></title>
+        <description><![CDATA[FPI]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 30 Apr 2016 20:04:03 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>People do business with people they like. People like themselves. People whose point of view, values, attitudes, lifestyles and belief systems match and support their own. </p>]]></description>
+            <link>undefinedpeople-do-business-with-people-they-like-people-like-themse/index.html</link>
+            <guid isPermaLink="false">a4c77c66-ac35-46f6-a3a8-0d87da7b669f</guid>
+            <pubDate>Sat, 30 Apr 2016 20:04:02 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
