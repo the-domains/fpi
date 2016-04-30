@@ -1,4 +1,4 @@
-name: FPI
+name: Fred Page Incorporated
 favicon: null
 layout_spectrum: 0.7312742630019784
 typography_spectrum: 0.8924159456510097
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#29282e'
+    - '#ffffff'
+    - '#9f9890'
+    - '#4e4e51'
+    - '#cacacb'
   brandStrength: 0.35849390691146255
   lightness: 0.8200460246298462
   saturation: 0.38091301964595914
